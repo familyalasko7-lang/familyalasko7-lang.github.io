@@ -1,0 +1,8 @@
+body {
+       font-style: normal;}
+header{ background-color:black;}
+nav { background-color: blue;}
+main{ background-color:blueviolet; font-size:x-large;}
+footer{ background-color: darkred;}
+h1{display: grid; font: lighter; color:black;}
+p{font-weight: bolder;}
